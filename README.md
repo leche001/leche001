@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leche001
 - 👀 I’m interested in Software and app development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python, C++, SQL
 - 💞️ I’m looking to collaborate on as many projects as possible
 - 📫 How to reach me brianngeleche@gmail.com
 - 😄 Pronouns: I/Him/He
